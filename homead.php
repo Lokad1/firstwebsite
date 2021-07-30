@@ -20,14 +20,14 @@ session_start();
                 <img class="logo" src="img/taqa.png">
                 <nav>
                     <ul>
-                        <li><a href="http://localhost/firstwebsite/homead.php">Acceuil</a></li>
-                        <li><a href="http://localhost/firstwebsite/anomalie.php">Gerer les anomalies</a></li>
-                        <li><a href="http://localhost/firstwebsite/access.php">Admin accès</a></li>
+                        <li><a href="https://anomaliemanagement.herokuapp.com/homead.php">Acceuil</a></li>
+                        <li><a href="https://anomaliemanagement.herokuapp.com/anomalie.php">Gerer les anomalies</a></li>
+                        <li><a href="https://anomaliemanagement.herokuapp.com/access.php">Admin accès</a></li>
                         <li><a href="#">À Propos de nous</a></li>
                     </ul>
                 </nav>
                 <p class="header-cta">
-                    <button><a href="http://localhost/firstwebsite/index.php">Se déconnecter</a></button>
+                    <button><a href="https://anomaliemanagement.herokuapp.com/index.php">Se déconnecter</a></button>
                 </p>
             </div>
     </div>
