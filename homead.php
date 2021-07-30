@@ -27,7 +27,7 @@ session_start();
                     </ul>
                 </nav>
                 <p class="header-cta">
-                    <button><a href="http://localhost/firstwebsite/firstpage.php">Se déconnecter</a></button>
+                    <button><a href="http://localhost/firstwebsite/index.php">Se déconnecter</a></button>
                 </p>
             </div>
     </div>
