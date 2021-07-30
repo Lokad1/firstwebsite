@@ -1,0 +1,193 @@
+/*
+background color: #eff1f4
+main color: #89c152
+borders and icons color: #919496
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    color: inherit;
+    text-decoration: none; 
+}
+
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(taq.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#register-card{
+    background-color: #ffffff;
+    height: 420px;
+    width: 460px;
+    border-radius: 6px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+#register-card h1{
+    font-size: 28px; 
+    font-weight: 600;
+    height: 70px;
+    /*text-align: center;*/
+    line-height: 80px;
+    padding-left: 40px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 15px auto;
+}
+
+label{
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.input-group input{
+   height: 35px; 
+   border-radius: 50px;
+   border: 1px solid #919496; 
+   padding-left: 15px;
+   width: 100%;
+}
+
+.merge-input-icon{
+    display: flex;
+    position: relative;
+}
+
+.merge-input-icon i{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    color: #919496;
+    cursor: pointer;
+}
+
+.merge-input-icon i:hover{
+    color: #ff1949;
+}
+
+.remember-password{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 15px auto;
+}
+
+.remember-password a{
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.remember-password-group label{
+    color: #919496;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 12px;
+    margin-left: 6px;
+    line-height: 14px;
+}
+
+.remember-password-group input[type="checkbox"] {
+    vertical-align:middle; 
+}
+
+
+
+.register-button{
+    height: 30px;
+    width: 80%;
+    margin: 25px auto;
+}
+
+.register-button input{
+    background-color: #ff1949;
+    color: #0e0707;
+    border:none;
+    border-radius: 50px;
+    height: 35px;
+    width: 100%;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3),
+    0px -2px 6px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.alert{
+    text-align: center;
+    color:red;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.register-button input:active{
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3),
+    0px -1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.create-account{
+    display: flex;
+    justify-content: center;
+}
+
+.create-account p{
+    color: #919496;
+    font-size: 12px;
+    margin-right: 12px;
+}
+
+.create-account a{
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 12px;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

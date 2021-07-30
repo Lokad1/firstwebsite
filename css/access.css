@@ -1,0 +1,70 @@
+
+
+th {
+    background-color: #ff1949;
+    color: white;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .button{
+    margin-bottom: 5px;
+  }
+
+  .buttona {
+    background-color: #ff1949;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+  }
+  .buttons {
+    background-color: #ff1949; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+  }
+
+  .buttonh {
+    background-color: #ff1949; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+  }
+
+  body{
+    background-color: rgb(83, 82, 82);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+table{
+  background-color: #ffff;
+  border-radius: 5px;
+}
+
+td{
+  white-space: pre;
+}
