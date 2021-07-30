@@ -11,8 +11,8 @@
 <body>
     <form action="./include/validation.php" method="get" class="connexion-form" id="connexion-form">
     <div class="button">
-    <a class="buttona" href="http://localhost/firstwebsite/addano.php">Ajouter une anomalie</a>
-    <a class="buttons" href="http://localhost/firstwebsite/delete.php">Supprimer une anomalie</a>
+    <a class="buttona" href="https://anomaliemanagement.herokuapp.com/addano.php">Ajouter une anomalie</a>
+    <a class="buttons" href="https://anomaliemanagement.herokuapp.com/delete.php">Supprimer une anomalie</a>
     <input type="submit" name="buttonh" id="buttonh" value="Retourner a l'acceuil">
     
     </div>
