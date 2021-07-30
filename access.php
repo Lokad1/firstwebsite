@@ -10,9 +10,9 @@
 </head>
 <body>
     <div class="button">
-    <a class="buttona" href="http://localhost/firstwebsite/admin.php">Donner l'access</a>
-    <a class="buttons" href="http://localhost/firstwebsite/nonadmin.php">Retirer l'accesse</a>
-    <a class="buttonh" href="http://localhost/firstwebsite/homead.php">Retourner a l'acceuil</a>
+    <a class="buttona" href="https://anomaliemanagement.herokuapp.com/admin.php">Donner l'access</a>
+    <a class="buttons" href="https://anomaliemanagement.herokuapp.com/nonadmin.php">Retirer l'accesse</a>
+    <a class="buttonh" href="https://anomaliemanagement.herokuapp.com/homead.php">Retourner a l'acceuil</a>
     </div>
 
     <table>
