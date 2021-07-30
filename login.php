@@ -46,7 +46,7 @@
 
             <div class="create-account">
                 <p>Vous n'avez pas un compte ? </p>
-                <a href="http://localhost/firstwebsite/register.php">Créer un compte</a>
+                <a href="https://anomaliemanagement.herokuapp.com/register.php">Créer un compte</a>
             </div>
         </form>
     </div>
